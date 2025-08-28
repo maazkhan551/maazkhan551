@@ -43,8 +43,7 @@ Problem Solving · Git & GitHub · DSA
 
 ## **📫 Connect With Me**
 
-💼 LinkedIn [Link Text](www.linkedin.com/in/
-maaz-ahmad-878383321)
+💼 LinkedIn [Link Text](www.linkedin.com/in/maaz-ahmad-878383321)
 
 📧 Email:  [email me](bakhthafiz1@gmail.com)
 
