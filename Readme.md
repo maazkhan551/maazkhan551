@@ -4,7 +4,7 @@
 💻 Passionate about Web Development, App Development, and AI Integration
 🚀 Exploring React, JavaScript, and Full-Stack Development
 
-##🔥**About Me**
+## 🔥**About Me**
 
 🎯 I’m focused on becoming a Full Stack Developer
 
@@ -16,7 +16,7 @@
 
 📚 Strong foundation in C++, OOP, and DSA
 
-##🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**
 
 ### **Languages:**
 C++ · JavaScript · Python
