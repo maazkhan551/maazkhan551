@@ -1,7 +1,7 @@
 # 👋 Hi, **I'm Maaz Ahmad**
 
 🎓 Software Engineering Student @ UET Mardan
-💻 Passionate about Web Development, App Development, and AI Integration
+💻 Passionate about Web Development and AI Integration
 🚀 Exploring React, JavaScript, and Full-Stack Development
 
 ## 🔥**About Me**
