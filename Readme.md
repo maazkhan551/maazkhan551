@@ -12,7 +12,7 @@
 
 💡 Interested in AI-powered applications
 
-💼 Building projects in Web & Mobile Apps
+💼 Building projects in Web development
 
 📚 Strong foundation in C++, OOP, and DSA
 
